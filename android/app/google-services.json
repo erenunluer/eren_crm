@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956186226796",
+    "project_id": "eren-crm",
+    "storage_bucket": "eren-crm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956186226796:android:3052f42178e601c3142849",
+        "android_client_info": {
+          "package_name": "com.example.eren_crm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956186226796-eq0nhg3c9k71935872bo16sa5fp22an1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eren_crm",
+            "certificate_hash": "5cc93c52022c9091c1ba60e7bd9c0c8a9f4231fc"
+          }
+        },
+        {
+          "client_id": "956186226796-15d5463l9a2ptdtlv7odm9fkcgl4uk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHH2TJbOB2_VjpuFm8vQtSErQ9XRtVyAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956186226796-15d5463l9a2ptdtlv7odm9fkcgl4uk46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
